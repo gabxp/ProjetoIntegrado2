@@ -1,0 +1,48 @@
+C:\Users\gabri\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\gabri\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\gabri\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.FrmLogin.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.FrmMenu.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.FrmLista.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.FrmCadastrar.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\_2020_04_20_VetorArray.frmAdicionar.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\_2020_04_20_VetorArray.frmOutro.resources
+C:\Users\gabri\Desktop\Projeto\Projeto\obj\Debug\Projeto.frmSobre.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\_2020_04_20_VetorArray.frmAdicionar.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.FrmCadastrar.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.frmLista.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.FrmLogin.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.frmMenu.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\_2020_04_20_VetorArray.frmOutro.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.frmSobre.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.exe.config
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Zstandard.Net.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\Renci.SshNet.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\Filipe Souza.MONSTRÂO\Desktop\UNINOVE DISCIPLINAS\projeto final\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
